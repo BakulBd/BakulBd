@@ -4,15 +4,15 @@
 
 <h1 align="center"><span style="color:#6E45E2;">Bakul Ahmed</span> </h1>
 
-<h3 align="center"><span style="color:#FF5733;">About Me</span> </h3>
+<h2 align="center"><span style="color:#FF5733;">About Me</span> </h2>
 
 <p align="center">I am a dedicated Computer Science and Engineering student at <span style="color:#FF5733;">Green University, Bangladesh</span>, passionate about leveraging technology to solve complex problems and drive innovation.</p>
 
-<h3 align="center"><span style="color:#6E45E2;">Career Goals</span> </h3>
+<h2 align="center"><span style="color:#6E45E2;">Career Goals</span> </h2>
 
 <p align="center">I aspire to excel in the field of Computer Science and Engineering by specializing in areas such as Artificial Intelligence and <span style="color:#FF5733;">Software Development</span>. My aim is to contribute to projects that have a positive impact on society.</p>
 
-<h3 align="center"><span style="color:#6E45E2;">Tech Stack</span> ️</h3>
+<h2 align="center"><span style="color:#6E45E2;">Tech Stack</span> ️</h2>
 
 <h3 align="center">
   <b>Languages:</b>
