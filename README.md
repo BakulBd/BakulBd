@@ -71,7 +71,7 @@
 <h2 align="center" style="color:#FF5733; font-size: 2em; font-weight: bold;">📢 Connect with Me</h2>
 <p align="center" style="font-size: 1.3em;">Let's collaborate and innovate together! Feel free to reach out:</p>
 <p align="center">
-  <a href="https://github.com/bakul3014">
+  <a href="https://github.com/bakulbd">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
   </a>
   &nbsp;
