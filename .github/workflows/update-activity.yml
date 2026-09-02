@@ -14,6 +14,108 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: jamesgeorge007/github-activity-readme@v2.0.0
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Render recent activity into README
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+
+            const MAX_LINES = 5;
+            const START = '<!--START_SECTION:activity-->';
+            const END = '<!--END_SECTION:activity-->';
+            const FILE = 'README.md';
+
+            const { data: events } = await github.rest.activity.listPublicEventsForUser({
+              username: context.repo.owner,
+              per_page: 100,
+            });
+
+            const repoLink = (r) => `[${r}](https://github.com/${r})`;
+            const cap = (s) => (s || '').charAt(0).toUpperCase() + (s || '').slice(1);
+            const ago = (isoDate) => {
+              const s = Math.floor((Date.now() - new Date(isoDate).getTime()) / 1000);
+              if (s < 3600) return `${Math.max(1, Math.floor(s / 60))}m ago`;
+              if (s < 86400) return `${Math.floor(s / 3600)}h ago`;
+              const d = Math.floor(s / 86400);
+              if (d < 30) return `${d}d ago`;
+              return `${Math.floor(d / 30)}mo ago`;
+            };
+
+            const lines = [];
+            const seen = new Set();
+
+            for (const e of events) {
+              if (lines.length >= MAX_LINES) break;
+              const r = e.repo && e.repo.name;
+              if (!r) continue;
+              const p = e.payload || {};
+              let text = null;
+
+              switch (e.type) {
+                case 'PushEvent': {
+                  const n = (p.commits && p.commits.length) || 0;
+                  text = `🔨 Pushed ${n} commit${n === 1 ? '' : 's'} to ${repoLink(r)}`;
+                  break;
+                }
+                case 'CreateEvent':
+                  if (p.ref_type === 'repository') text = `🎉 Launched new repository ${repoLink(r)}`;
+                  else if (p.ref_type === 'branch') text = `🌿 Opened branch \`${p.ref}\` in ${repoLink(r)}`;
+                  break;
+                case 'PullRequestEvent':
+                  text = `🔀 ${cap(p.action)} PR [#${p.number}](${p.pull_request && p.pull_request.html_url}) in ${repoLink(r)}`;
+                  break;
+                case 'IssuesEvent':
+                  text = `❗ ${cap(p.action)} issue [#${p.issue && p.issue.number}](${p.issue && p.issue.html_url}) in ${repoLink(r)}`;
+                  break;
+                case 'ReleaseEvent':
+                  text = `🚀 Released [${p.release && p.release.tag_name}](${p.release && p.release.html_url}) of ${repoLink(r)}`;
+                  break;
+                case 'PublicEvent':
+                  text = `🔓 Open-sourced ${repoLink(r)}`;
+                  break;
+                case 'ForkEvent':
+                  text = `🍴 Forked ${repoLink(r)}`;
+                  break;
+                case 'WatchEvent':
+                  text = `⭐ Starred ${repoLink(r)}`;
+                  break;
+              }
+
+              if (!text) continue;
+              const key = `${e.type}:${r}`;
+              if (seen.has(key)) continue;
+              seen.add(key);
+              lines.push(`- ${text} &nbsp;·&nbsp; <sub>${ago(e.created_at)}</sub>`);
+            }
+
+            const body = lines.length
+              ? lines.join('\n')
+              : '- 🛠️ Heads-down building — no public events in the last stretch.';
+
+            const md = fs.readFileSync(FILE, 'utf8');
+            const s = md.indexOf(START);
+            const t = md.indexOf(END);
+            if (s === -1 || t === -1) {
+              core.setFailed(`Activity markers not found in ${FILE}`);
+              return;
+            }
+
+            const next = md.slice(0, s + START.length) + '\n' + body + '\n' + md.slice(t);
+            if (next !== md) {
+              fs.writeFileSync(FILE, next);
+              core.info(`Updated ${lines.length} activity line(s).`);
+            } else {
+              core.info('Activity already up to date.');
+            }
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain README.md)" ]; then
+            git add README.md
+            git commit -m "chore: refresh recent activity"
+            git push
+          else
+            echo "No changes to commit."
+          fi

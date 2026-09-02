@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-BakulAhmed-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://twitter.com/cyberbokul">
-  <img src="https://img.shields.io/badge/X-cyberbokul-6E45E2?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/>
+  <img src="https://img.shields.io/badge/X-Bakul-6E45E2?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/>
 </a>
 <a href="mailto:that.bakul@gmail.com">
   <img src="https://img.shields.io/badge/Email-that.bakul-00D4FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -102,7 +102,7 @@ fun_fact: >
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/BakulBd/BakulBd/metrics/metrics.svg" width="100%" alt="Metrics Dashboard"/>
+<img src="./metrics.svg" width="100%" alt="Metrics Dashboard"/>
 
 <br/>
 
@@ -191,7 +191,11 @@ My personal portfolio — where the rest of these projects, and whatever I ship 
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BakulBd/BakulBd/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BakulBd/BakulBd/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BakulBd/BakulBd/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/BakulBd/BakulBd/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%"/>
+  </picture>
 </div>
 
 <br/>
