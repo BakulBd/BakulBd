@@ -1,97 +1,210 @@
-<!-- Profile Picture with Border and Shadow -->
-<p align="center">
-  <img src="https://www.torrens.edu.au/-/media/project/laureate/shared/icons/student-on-laptop-icon-tua.svg?rev=86c7a68f458444a0bb6cb9e872138621&w=1200&hash=584B2B8C3EF4277A366AA4251CE1927C" alt="Profile Picture" width="200" height="200" style="border-radius: 50%; box-shadow: 0px 0px 15px rgba(0,0,0,0.5);">
-</p>
+<div align="center">
 
-<!-- Title with Shadow -->
-<h1 align="center" style="color:#6E45E2; font-size: 3em; font-weight: bold; text-shadow: 3px 3px 5px rgba(0,0,0,0.3);">🚀 Bakul Ahmed</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E45E2,50:9B5DE5,100:00D4FF&height=230&section=header&text=Bakul%20Ahmed&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=AI%20Enthusiast%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20Builder&descAlignY=56&descSize=20&animation=fadeIn" width="100%" alt="header"/>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=700&height=60&lines=AI+Enthusiast+%7C+Software+Developer+%7C+Tech+Explorer" alt="Typing SVG">
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=6E45E2&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Turning+ideas+into+working+software;Machine+Learning+%7C+Full-Stack+%7C+Open+Source;Currently+building+ContextGuard%2C+TeleFlow+%26+RainGuard" alt="Typing SVG" />
 
----
+<br/>
 
-<!-- About Me -->
-<h2 align="center" style="color:#FF5733; font-size: 2em; font-weight: bold;">💡 About Me</h2>
-<p align="center" style="font-size: 1.3em; max-width: 850px; margin: auto; text-align: justify;">
-  Passionate <b>Computer Science and Engineering</b> student at <span style="color:#FF5733;">Green University, Bangladesh</span>. 
-  I thrive on solving complex problems with technology and continuously expanding my skillset to stay ahead in the tech world.
-</p>
+<img src="https://img.shields.io/badge/📍-Bangladesh-1a1a2e?style=flat-square&labelColor=1a1a2e&color=6E45E2" alt="location"/>
+<img src="https://img.shields.io/badge/🎓-Green%20University%20of%20Bangladesh-1a1a2e?style=flat-square&labelColor=1a1a2e&color=8b6be0" alt="university"/>
+<img src="https://img.shields.io/badge/🤖-AI%20%26%20Full--Stack-1a1a2e?style=flat-square&labelColor=1a1a2e&color=00D4FF" alt="focus"/>
 
----
+<br/><br/>
 
-<!-- Career Goals -->
-<h2 align="center" style="color:#6E45E2; font-size: 2em; font-weight: bold;">🎯 Career Goals</h2>
-<p align="center" style="font-size: 1.3em; max-width: 850px; margin: auto; text-align: justify;">
-  My mission is to excel in <b>Artificial Intelligence</b> and <b>Software Development</b>, contributing to cutting-edge projects that impact society positively. 
-  Areas of interest include <b>Machine Learning, Full-Stack Development</b>, and <b>Open-Source Contributions</b>.
-</p>
+<a href="https://github.com/BakulBd">
+  <img src="https://img.shields.io/badge/GitHub-BakulBd-6E45E2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/cyberbokul">
+  <img src="https://img.shields.io/badge/LinkedIn-cyberbokul-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/cyberbokul">
+  <img src="https://img.shields.io/badge/X-cyberbokul-6E45E2?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/>
+</a>
+<a href="mailto:cyberbokul@gmail.com">
+  <img src="https://img.shields.io/badge/Email-cyberbokul-00D4FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
----
+<br/><br/>
 
-<!-- Tech Stack with Icons and Animation -->
-<h2 align="center" style="color:#6E45E2; font-size: 2em; font-weight: bold;">🛠 Tech Stack</h2>
-<div align="center" style="font-size: 1.3em;">
-  <b>Languages:</b><br>
-  <img src="https://skillicons.dev/icons?i=cpp,java,c,python" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/><br><br>
-  
-  <b>Web Development:</b><br>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/><br><br>
-  
-  <b>Database:</b><br>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/><br><br>
-  
-  <b>Tools & Platforms:</b><br>
-  <img src="https://skillicons.dev/icons?i=git,vscode,docker,github,postman" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/><br><br>
-  
-  <b>Operating Systems:</b><br>
-  <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+<img src="https://komarev.com/ghpvc/?username=bakulbd&label=Profile%20Views&color=6E45E2&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/BakulBd?style=for-the-badge&color=00D4FF&labelColor=1a1a2e&logo=github&logoColor=white&label=Followers" alt="Followers"/>
+
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E45E2,100:00D4FF&height=4&width=100%" width="100%" alt="divider"/>
 
-<!-- GitHub Stats with Animation -->
-<h2 align="center" style="color:#FF5733; font-size: 2em; font-weight: bold;">📊 GitHub Stats</h2>
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakulbd&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
-  <br>
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=bakulbd&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
-  <br>
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bakulbd&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" style="border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
-</p>
+## 💡 About Me
 
----
+<table>
+<tr>
+<td width="60%" valign="top">
 
-<!-- Connect with Me -->
-<h2 align="center" style="color:#FF5733; font-size: 2em; font-weight: bold;">📢 Connect with Me</h2>
-<p align="center" style="font-size: 1.3em;">Let's collaborate and innovate together! Feel free to reach out:</p>
-<p align="center">
-  <a href="https://github.com/bakulbd">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/cyberbokul">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/cyberbokul">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="45" height="45" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
-  </a>
-</p>
+Computer Science &amp; Engineering undergrad at **Green University of Bangladesh**, focused on **Artificial Intelligence** and **full-stack software development**. I like taking real, slightly annoying problems — a laptop webcam that can't reason about what it sees, students duplicating job-hunt effort, algorithms staying abstract in textbooks — and turning them into working software.
 
----
+Most of my repos are small, deliberate builds rather than tutorials: a privacy-preserving security-intelligence tool, a production Telegram automation platform, a rain-detection system, and an algorithm visualizer people can actually watch run. I care more about a project working end-to-end than about it looking impressive on paper — though a few of them manage both.
 
-<!-- Quote Generator -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Readme Quote">
-</p>
+</td>
+<td width="40%" valign="top">
 
----
+```yaml
+name: Bakul Ahmed
+role: CSE Undergraduate
+base: Bangladesh
+focus:
+  - Machine Learning
+  - Full-Stack Development
+  - Open Source
+learning: System Design
+currently_building:
+  - ContextGuard
+  - TeleFlow
+  - RainGuard
+reach_me: cyberbokul@gmail.com
+fun_fact: >
+  I'd rather ship a small
+  tool that works than a
+  big one that almost does.
+```
 
-<!-- Footer -->
-<p align="center" style="font-size: 1em; color:#6E45
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E45E2,100:00D4FF&height=4&width=100%" width="100%" alt="divider"/>
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+<sub><b>CORE STACK</b></sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=cpp,java,c,python,js,ts" alt="languages"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express" alt="web"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" alt="database"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,linux" alt="tools"/>
+
+<br/><br/>
+
+<sub><b>CURRENTLY EXPLORING</b></sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,pandas,numpy" alt="data-ml"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E45E2,100:00D4FF&height=4&width=100%" width="100%" alt="divider"/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=BakulBd&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BakulBd&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages"/>
+
+<img src="https://streak-stats.demolab.com?user=BakulBd&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BakulBd&theme=tokyo-night&hide_border=true&area=true&radius=12" width="100%" alt="Activity Graph"/>
+
+</div>
+
+<details>
+<summary><b>🏆 Trophy Case</b></summary>
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BakulBd&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
+</div>
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E45E2,100:00D4FF&height=4&width=100%" width="100%" alt="divider"/>
+
+## 🚀 Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🛡️ [ContextGuard](https://github.com/BakulBd/ContextGuard)**
+<br/>
+<img src="https://img.shields.io/badge/-Python-1a1a2e?style=flat-square&color=6E45E2&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-Computer%20Vision-1a1a2e?style=flat-square&color=6E45E2"/> <img src="https://img.shields.io/badge/-Privacy--First-1a1a2e?style=flat-square&color=6E45E2"/>
+
+Privacy-preserving, context-aware intrusion reasoning and grounded natural-language security intelligence for a single laptop webcam — no GPU required, no mandatory cloud, no continuous video retention by default.
+
+</td>
+<td width="50%" valign="top">
+
+**⚡ [TeleFlow](https://github.com/BakulBd/TeleFlow)**
+<br/>
+<img src="https://img.shields.io/badge/-FastAPI-1a1a2e?style=flat-square&color=00D4FF&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/-Telethon-1a1a2e?style=flat-square&color=00D4FF&logo=telegram&logoColor=white"/> <img src="https://img.shields.io/badge/-Next.js-1a1a2e?style=flat-square&color=00D4FF&logo=nextdotjs&logoColor=white"/>
+
+Production-grade Telegram multi-account community management and authorized member-onboarding platform, built with a FastAPI backend and a Next.js control panel.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🌧️ [RainGuard](https://github.com/BakulBd/RainGuard)**
+<br/>
+<img src="https://img.shields.io/badge/-C%2B%2B-1a1a2e?style=flat-square&color=6E45E2&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/-Embedded-1a1a2e?style=flat-square&color=6E45E2"/>
+
+A rain-detection system that senses moisture in real time and triggers alerts — built to protect exposed electronics before the damage is done.
+
+</td>
+<td width="50%" valign="top">
+
+**🧮 [Algorithms Visualizer](https://github.com/BakulBd/algorithms-visualizer)**
+<br/>
+<img src="https://img.shields.io/badge/-JavaScript-1a1a2e?style=flat-square&color=00D4FF&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/-Canvas-1a1a2e?style=flat-square&color=00D4FF"/>
+
+Interactive web app animating sorting algorithms (Bubble, Insertion, Quick, Merge) and Huffman encoding with real-time tree construction — built to make algorithms click.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📊 [Dry Bean Scaling Study](https://github.com/BakulBd/dry-bean-scaling-study)**
+<br/>
+<img src="https://img.shields.io/badge/-Jupyter-1a1a2e?style=flat-square&color=6E45E2&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/-scikit--learn-1a1a2e?style=flat-square&color=6E45E2&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/-Statistics-1a1a2e?style=flat-square&color=6E45E2"/>
+
+A reproducible empirical study isolating the effect of feature-scaling strategy on KNN and Naive Bayes classification on the UCI Dry Bean dataset — written to support a short conference paper.
+
+</td>
+<td width="50%" valign="top">
+
+**🌐 [Portfolio](https://github.com/BakulBd/bakul)**
+<br/>
+<img src="https://img.shields.io/badge/-TypeScript-1a1a2e?style=flat-square&color=00D4FF&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/-Personal%20Site-1a1a2e?style=flat-square&color=00D4FF"/>
+
+My personal portfolio — where the rest of these projects, and whatever I ship next, live in one place.
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E45E2,100:00D4FF&height=4&width=100%" width="100%" alt="divider"/>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BakulBd/BakulBd/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
+
+<br/><br/>
+
+**Let's build something worth shipping.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:9B5DE5,100:6E45E2&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
