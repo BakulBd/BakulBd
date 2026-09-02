@@ -2,7 +2,7 @@ name: Generate Metrics Dashboard
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "10 */12 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -24,12 +24,5 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Dhaka
 
-          plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_threshold: 0%
-
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-
-          plugin_achievements: yes
-          plugin_achievements_display: compact
