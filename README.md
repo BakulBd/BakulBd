@@ -15,20 +15,21 @@
 <a href="https://github.com/BakulBd">
   <img src="https://img.shields.io/badge/GitHub-BakulBd-6E45E2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://linkedin.com/in/cyberbokul">
-  <img src="https://img.shields.io/badge/LinkedIn-cyberbokul-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://linkedin.com/in/BakulAhmed">
+  <img src="https://img.shields.io/badge/LinkedIn-BakulAhmed-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://twitter.com/cyberbokul">
   <img src="https://img.shields.io/badge/X-cyberbokul-6E45E2?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/>
 </a>
-<a href="mailto:cyberbokul@gmail.com">
-  <img src="https://img.shields.io/badge/Email-cyberbokul-00D4FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="mailto:that.bakul@gmail.com">
+  <img src="https://img.shields.io/badge/Email-that.bakul-00D4FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=bakulbd&label=Profile%20Views&color=6E45E2&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=BakulBd&label=Profile%20Views&color=6E45E2&style=for-the-badge" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/BakulBd?style=for-the-badge&color=00D4FF&labelColor=1a1a2e&logo=github&logoColor=white&label=Followers" alt="Followers"/>
+<img src="https://img.shields.io/github/last-commit/BakulBd/BakulBd?style=for-the-badge&color=6E45E2&labelColor=1a1a2e&logo=git&logoColor=white&label=Last%20Updated" alt="Last Updated"/>
 
 </div>
 
@@ -60,7 +61,7 @@ currently_building:
   - ContextGuard
   - TeleFlow
   - RainGuard
-reach_me: cyberbokul@gmail.com
+reach_me: that.bakul@gmail.com
 fun_fact: >
   I'd rather ship a small
   tool that works than a
@@ -101,24 +102,15 @@ fun_fact: >
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BakulBd&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BakulBd&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages"/>
+<img src="https://raw.githubusercontent.com/BakulBd/BakulBd/metrics/metrics.svg" width="100%" alt="Metrics Dashboard"/>
+
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=BakulBd&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BakulBd&theme=tokyo-night&hide_border=true&area=true&radius=12" width="100%" alt="Activity Graph"/>
-
 </div>
 
-<details>
-<summary><b>🏆 Trophy Case</b></summary>
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BakulBd&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
-</div>
-
-</details>
+<sub>⚙️ Self-hosted via <a href="./.github/workflows/metrics.yml">GitHub Actions</a> and refreshed every 12 hours — no dependency on third-party rendering services.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E45E2,100:00D4FF&height=4&width=100%" width="100%" alt="divider"/>
 
@@ -186,6 +178,13 @@ My personal portfolio — where the rest of these projects, and whatever I ship 
 </td>
 </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E45E2,100:00D4FF&height=4&width=100%" width="100%" alt="divider"/>
+
+## 📌 Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+<sub>⚙️ Auto-refreshed every few hours by <a href="./.github/workflows/update-activity.yml">GitHub Actions</a> — no manual edits, always current.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E45E2,100:00D4FF&height=4&width=100%" width="100%" alt="divider"/>
 
