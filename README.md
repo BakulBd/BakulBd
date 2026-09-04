@@ -184,8 +184,8 @@ My personal portfolio — where the rest of these projects, and whatever I ship 
 ## 📌 Recent Activity
 <!--START_SECTION:activity-->
 - 🔨 Pushed 0 commits to [BakulBd/BakulBd](https://github.com/BakulBd/BakulBd) &nbsp;·&nbsp; <sub>1d ago</sub>
-- 🔨 Pushed 0 commits to [BakulBd/shop](https://github.com/BakulBd/shop) &nbsp;·&nbsp; <sub>2d ago</sub>
-- 🌿 Opened branch `main` in [BakulBd/shop](https://github.com/BakulBd/shop) &nbsp;·&nbsp; <sub>3d ago</sub>
+- 🔨 Pushed 0 commits to [BakulBd/shop](https://github.com/BakulBd/shop) &nbsp;·&nbsp; <sub>3d ago</sub>
+- 🌿 Opened branch `main` in [BakulBd/shop](https://github.com/BakulBd/shop) &nbsp;·&nbsp; <sub>4d ago</sub>
 - 🔨 Pushed 0 commits to [BakulBd/bakul](https://github.com/BakulBd/bakul) &nbsp;·&nbsp; <sub>5d ago</sub>
 - 🌿 Opened branch `main` in [BakulBd/ContextGuard](https://github.com/BakulBd/ContextGuard) &nbsp;·&nbsp; <sub>7d ago</sub>
 <!--END_SECTION:activity-->
