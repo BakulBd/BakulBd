@@ -183,11 +183,11 @@ My personal portfolio — where the rest of these projects, and whatever I ship 
 
 ## 📌 Recent Activity
 <!--START_SECTION:activity-->
+- 🔨 Pushed 0 commits to [GreenUniversityComputerClub/gucc](https://github.com/GreenUniversityComputerClub/gucc) &nbsp;·&nbsp; <sub>1d ago</sub>
+- 🔨 Pushed 0 commits to [BakulBd/shop2](https://github.com/BakulBd/shop2) &nbsp;·&nbsp; <sub>1d ago</sub>
 - 🔨 Pushed 0 commits to [BakulBd/CodeRelay](https://github.com/BakulBd/CodeRelay) &nbsp;·&nbsp; <sub>1d ago</sub>
-- 🌿 Opened branch `main` in [BakulBd/portfolio3](https://github.com/BakulBd/portfolio3) &nbsp;·&nbsp; <sub>4h ago</sub>
-- 🔨 Pushed 0 commits to [GreenUniversityComputerClub/gucc](https://github.com/GreenUniversityComputerClub/gucc) &nbsp;·&nbsp; <sub>22h ago</sub>
-- 🌿 Opened branch `main` in [BakulBd/shop2](https://github.com/BakulBd/shop2) &nbsp;·&nbsp; <sub>2d ago</sub>
-- 🔨 Pushed 0 commits to [BakulBd/shop](https://github.com/BakulBd/shop) &nbsp;·&nbsp; <sub>1d ago</sub>
+- 🌿 Opened branch `main` in [BakulBd/portfolio3](https://github.com/BakulBd/portfolio3) &nbsp;·&nbsp; <sub>9h ago</sub>
+- 🌿 Opened branch `main` in [BakulBd/shop2](https://github.com/BakulBd/shop2) &nbsp;·&nbsp; <sub>3d ago</sub>
 <!--END_SECTION:activity-->
 <sub>⚙️ Auto-refreshed every few hours by <a href="./.github/workflows/update-activity.yml">GitHub Actions</a> — no manual edits, always current.</sub>
 
