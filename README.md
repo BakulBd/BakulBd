@@ -13,6 +13,7 @@
 </p>
 
 <p>
+  <a href="https://bakul.tech"><img src="https://img.shields.io/badge/Portfolio-bakul.tech-9B5DE5?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=6E45E2" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/BakulAhmed"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:that.bakul@gmail.com"><img src="https://img.shields.io/badge/Email-6E45E2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://twitter.com/cyberbokul"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
@@ -60,6 +61,7 @@ principles:
   - Ship it end to end
   - Privacy by default
   - Measure, don't guess
+website: bakul.tech
 contact: that.bakul@gmail.com
 ```
 
@@ -173,7 +175,7 @@ A **reproducible empirical study** isolating how feature-scaling strategy affect
 ![TypeScript](https://img.shields.io/badge/TypeScript-00A3CC?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-00A3CC?style=flat-square&logo=nextdotjs&logoColor=white)
 
-My personal portfolio — where these projects, and whatever I ship next, live in one place.
+My personal portfolio — where these projects, and whatever I ship next, live in one place. Live at **[bakul.tech](https://bakul.tech)**.
 
 </td>
 </tr>
@@ -224,6 +226,7 @@ Have an idea, an internship opening, or a bug to squash together? My inbox is op
 
 <br/>
 
+<a href="https://bakul.tech"><img src="https://img.shields.io/badge/Visit-bakul.tech-00A3CC?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=161B22" alt="Visit bakul.tech"/></a>
 <a href="mailto:that.bakul@gmail.com"><img src="https://img.shields.io/badge/Say_hello-that.bakul%40gmail.com-6E45E2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22" alt="Say hello"/></a>
 
 <br/><br/>
