@@ -205,8 +205,8 @@ My personal portfolio — where these projects, and whatever I ship next, live i
 ## 📌 Recent Activity
 <!--START_SECTION:activity-->
 - 🔨 Pushed 0 commits to [BakulBd/BakulAhmed](https://github.com/BakulBd/BakulAhmed) &nbsp;·&nbsp; <sub>1d ago</sub>
-- 🔨 Pushed 0 commits to [GreenUniversityComputerClub/gucc](https://github.com/GreenUniversityComputerClub/gucc) &nbsp;·&nbsp; <sub>1d ago</sub>
-- 🔨 Pushed 0 commits to [BakulBd/BakulBd](https://github.com/BakulBd/BakulBd) &nbsp;·&nbsp; <sub>1d ago</sub>
+- 🔨 Pushed 0 commits to [GreenUniversityComputerClub/gucc](https://github.com/GreenUniversityComputerClub/gucc) &nbsp;·&nbsp; <sub>2d ago</sub>
+- 🔨 Pushed 0 commits to [BakulBd/BakulBd](https://github.com/BakulBd/BakulBd) &nbsp;·&nbsp; <sub>2d ago</sub>
 - 🌿 Opened branch `main` in [BakulBd/BakulAhmed](https://github.com/BakulBd/BakulAhmed) &nbsp;·&nbsp; <sub>4d ago</sub>
 - 🌿 Opened branch `database` in [GreenUniversityComputerClub/gucc](https://github.com/GreenUniversityComputerClub/gucc) &nbsp;·&nbsp; <sub>6d ago</sub>
 <!--END_SECTION:activity-->
