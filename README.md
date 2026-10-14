@@ -207,8 +207,8 @@ My personal portfolio — where these projects, and whatever I ship next, live i
 - 🔨 Pushed 0 commits to [BakulBd/OpenKey](https://github.com/BakulBd/OpenKey) &nbsp;·&nbsp; <sub>1d ago</sub>
 - 🌿 Opened branch `main` in [BakulBd/OpenKey](https://github.com/BakulBd/OpenKey) &nbsp;·&nbsp; <sub>2d ago</sub>
 - 🔨 Pushed 0 commits to [BakulBd/BakulAhmed](https://github.com/BakulBd/BakulAhmed) &nbsp;·&nbsp; <sub>8d ago</sub>
-- 🔨 Pushed 0 commits to [GreenUniversityComputerClub/gucc](https://github.com/GreenUniversityComputerClub/gucc) &nbsp;·&nbsp; <sub>8d ago</sub>
-- 🔨 Pushed 0 commits to [BakulBd/BakulBd](https://github.com/BakulBd/BakulBd) &nbsp;·&nbsp; <sub>8d ago</sub>
+- 🔨 Pushed 0 commits to [GreenUniversityComputerClub/gucc](https://github.com/GreenUniversityComputerClub/gucc) &nbsp;·&nbsp; <sub>9d ago</sub>
+- 🔨 Pushed 0 commits to [BakulBd/BakulBd](https://github.com/BakulBd/BakulBd) &nbsp;·&nbsp; <sub>9d ago</sub>
 <!--END_SECTION:activity-->
 <sub>⚙️ Auto-refreshed every 6 hours by <a href="./.github/workflows/update-activity.yml">GitHub Actions</a>.</sub>
 
