@@ -204,8 +204,8 @@ My personal portfolio — where these projects, and whatever I ship next, live i
 
 ## 📌 Recent Activity
 <!--START_SECTION:activity-->
-- 🔨 Pushed 0 commits to [BakulBd/OpenKey](https://github.com/BakulBd/OpenKey) &nbsp;·&nbsp; <sub>15h ago</sub>
-- ⭐ Starred [EhsanShahbazii/Chesscom-AI-Assistant-Pro](https://github.com/EhsanShahbazii/Chesscom-AI-Assistant-Pro) &nbsp;·&nbsp; <sub>22h ago</sub>
+- 🔨 Pushed 0 commits to [BakulBd/OpenKey](https://github.com/BakulBd/OpenKey) &nbsp;·&nbsp; <sub>21h ago</sub>
+- ⭐ Starred [EhsanShahbazii/Chesscom-AI-Assistant-Pro](https://github.com/EhsanShahbazii/Chesscom-AI-Assistant-Pro) &nbsp;·&nbsp; <sub>1d ago</sub>
 - 🌿 Opened branch `main` in [BakulBd/OpenApply](https://github.com/BakulBd/OpenApply) &nbsp;·&nbsp; <sub>2d ago</sub>
 - 🌿 Opened branch `main` in [BakulBd/OpenKey](https://github.com/BakulBd/OpenKey) &nbsp;·&nbsp; <sub>5d ago</sub>
 - 🔨 Pushed 0 commits to [BakulBd/BakulAhmed](https://github.com/BakulBd/BakulAhmed) &nbsp;·&nbsp; <sub>11d ago</sub>
