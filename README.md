@@ -204,8 +204,8 @@ My personal portfolio — where these projects, and whatever I ship next, live i
 
 ## 📌 Recent Activity
 <!--START_SECTION:activity-->
-- 🔨 Pushed 0 commits to [BakulBd/BakulAhmed](https://github.com/BakulBd/BakulAhmed) &nbsp;·&nbsp; <sub>7d ago</sub>
-- ⭐ Starred [BakulBd/OpenKey](https://github.com/BakulBd/OpenKey) &nbsp;·&nbsp; <sub>18d ago</sub>
+- 🔨 Pushed 0 commits to [BakulBd/BakulAhmed](https://github.com/BakulBd/BakulAhmed) &nbsp;·&nbsp; <sub>8d ago</sub>
+- ⭐ Starred [BakulBd/OpenKey](https://github.com/BakulBd/OpenKey) &nbsp;·&nbsp; <sub>19d ago</sub>
 - 🔨 Pushed 0 commits to [BakulBd/OpenKey](https://github.com/BakulBd/OpenKey) &nbsp;·&nbsp; <sub>29d ago</sub>
 <!--END_SECTION:activity-->
 <sub>⚙️ Auto-refreshed every 6 hours by <a href="./.github/workflows/update-activity.yml">GitHub Actions</a>.</sub>
